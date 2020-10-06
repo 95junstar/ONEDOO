@@ -1,0 +1,26 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "~2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^5.10.7"
+  },
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://95junstar:wnstjd1717@github.com/95junstar/ONEDOO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/95junstar/ONEDOO/issues"
+  },
+  "homepage": "https://github.com/95junstar/ONEDOO#readme",
+  "description": ""
+}
